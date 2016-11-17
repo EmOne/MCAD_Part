@@ -1,0 +1,17 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"Wurth Elektronik";"";
+"TraceParts.PartStatus";"Published";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"RS_STOCK_NUMBER";"8183282";"";
+"REVISION";"A";"";
+"DESIGN";"Angled SMT HDMI 2.6mm Receptacle";"";
+"TraceParts.InstanceId";"10-29022016-1266916TZE6BY3YRNFDMMO7WYZZBY4M";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartTitle";"Angled SMT HDMI 2.6mm Receptacle";"";
+"REFERENCE";"685119134923";"";
+"TIMESTAMP";"19/2/2016 17:29:39";"";
+"TraceParts.PartNumber";"10-29022016-126691";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:10-29022016-126691";"";

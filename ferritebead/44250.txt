@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"74279271";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"SUPPLIER";"Wurth Elektronik";"";
+"TraceParts.PartStatus";"Published";"";
+"RS_STOCK_NUMBER";"6693973";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"74279271, 0402 Ferrite, SMD 120Ohm, 0.3A";"";
+"TraceParts.InstanceId";"10-09102014-1209414SBLH3A9W7XRTSLF7P0XNAWD2";"";
+"TraceParts.PartTitle";"74279271, 0402 Ferrite, SMD 120Ohm, 0.3A";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TIMESTAMP";"08/10/2014 16:03";"";
+"REVISION";"A";"";
+"TraceParts.PartNumber";"10-09102014-120941";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"RS_COMPONENTS:/F_RS_COMPONENTS/PSSS_432964/PSS_432986/PSF_432987/10-09102014-120941";"";
